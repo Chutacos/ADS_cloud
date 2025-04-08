@@ -35,9 +35,6 @@ This project is designed to be fully reproducible from the GitHub repository. Fo
 
 git clone https://github.com/Chutacos/ADS_cloud.git
 
-## Set up Virtual Environment
-
-pip install -r requirements.txt
 
 # Deployment
 ### Model Development and Evaluation
