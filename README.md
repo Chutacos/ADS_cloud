@@ -67,7 +67,6 @@ The project prioritizes privacy by ensuring Protected Health Information (PHI) a
 
 #### Technologies
 
-- SQL
 - Python
 
 
